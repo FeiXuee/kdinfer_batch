@@ -1,6 +1,6 @@
-# KD-Infer
+# FUSE
 
-This is the implementation of KD-Infer for efficient private inference that is able to utilize all zeros, duplicates as well as unique values in scaled raw model weights without retraining, and with much more flexibility for input volume at offline.
+This is the implementation of FUSE for efficient private inference that features with a full-duplex pattern such that the client enjoys both light offline and efficient online, enabling private inference with optimized overall efficiency and much less cost for the client.
 
 ## Setup and Build
 
